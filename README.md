@@ -9,5 +9,5 @@
 ## DLFromScratch3
 * 밑바닥부터 시작하는 딥러닝 3 (한빛미디어, ???, ???)
 
-## DLWithPytorch
+## DLWithPyTorch
 * 딥러닝 파이토치 교과서 (길벗, 서지영, 2022)
